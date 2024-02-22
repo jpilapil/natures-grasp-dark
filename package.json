@@ -4,6 +4,10 @@
   "description": "Theme inspired by virtual nature",
   "version": "0.0.1",
   "publisher": "jjjjut",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpilapil/natures-grasp-dark"
+  },
   "engines": {
     "vscode": "^1.86.0"
   },
