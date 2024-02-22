@@ -1,0 +1,30 @@
+{
+  "name": "natures-grasp-dark",
+  "displayName": "Natures Grasp",
+  "description": "Theme inspired by virtual nature",
+  "version": "0.0.1",
+  "publisher": "jjjjut",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "keywords": [
+    "theme",
+    "nature",
+    "natures grasp",
+    "earth",
+    "dark theme",
+    "jjjjut"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Natures Grasp",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Natures Grasp-color-theme.json"
+      }
+    ]
+  }
+}
