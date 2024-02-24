@@ -2,7 +2,7 @@
   "name": "natures-grasp-dark",
   "displayName": "Natures Grasp",
   "description": "Theme inspired by virtual nature",
-  "icon": "/images/naturesgrasp.png",
+  "icon": "images/naturesgrasp.png",
   "version": "0.6.0",
   "publisher": "jjjjut",
   "repository": {
